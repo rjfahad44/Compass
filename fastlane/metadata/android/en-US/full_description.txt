@@ -1,0 +1,13 @@
+You’ll get exactly what you expect.
+A simple and beautiful compass.
+
+Features:
+* Can point to magnetic north as well as true north
+* Shows exact degrees and cardinal direction
+* Displays sensor status
+* Haptic feedback
+* Automatic night mode
+* No advertisements
+* No annoyance
+
+Have fun!
